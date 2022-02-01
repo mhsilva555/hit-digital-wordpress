@@ -24,6 +24,10 @@ a, a:link, a:visited, a:active, a:hover {
   width: 100%;
   max-width: 780px;
   margin: 0 auto;
+
+  @media (max-width: $medium) {
+    max-width: 90%;
+  }
 }
 
 .page-title {

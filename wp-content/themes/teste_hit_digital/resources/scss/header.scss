@@ -17,6 +17,10 @@
       @include border-radius(10px);
       @include box-shadow(0 5px 10px rgba(0, 0, 0, 0.16));
 
+      @media (max-width: $medium) {
+        margin-right: 0;
+      }
+
       span {
         position: absolute;
         top: 0;

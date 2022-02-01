@@ -22,7 +22,7 @@
     textarea {
       max-height: 200px;
     }
-    button#btn-submit {
+    button[type="submit"] {
       margin-top: 22px;
       font-size: 12px;
       text-transform: uppercase;

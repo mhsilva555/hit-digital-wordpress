@@ -19,7 +19,7 @@
                         </fieldset>
                     </div>
 
-                    <div class="cols col-lg-6">
+                    <div class="cols col-lg-6 mt-3 mt-md-0">
                         <fieldset>
                             <input class="form-control" type="email" name="email" placeholder="E-mail*" required>
                         </fieldset>

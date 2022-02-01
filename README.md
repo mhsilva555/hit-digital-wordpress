@@ -1,4 +1,4 @@
-# Hit Gigital Wordpress
+# Hit Digital Wordpress
 Repositório de teste para o processo seletivo da Hit Digital com Wordpress<br>
 <br>
 No diretório Backup contém um arquivo para a instalação completa do Wordpress.<br>

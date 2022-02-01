@@ -1,0 +1,16 @@
+{
+  "name": "hit-digital/teste",
+  "description": "Teste para processo seletivo",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcos Henrique",
+      "email": "mhsilva555@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "filp/whoops": "^2.14",
+    "phpmailer/phpmailer": "~5.2"
+  }
+}
